@@ -1,0 +1,1 @@
+export const SecondhandBookAddress = 0xaBB47b761A2DCDE4D585eD3c81282b6DDe5fe54B
