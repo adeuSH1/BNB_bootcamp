@@ -1,1 +1,1 @@
-export const SecondhandBookAddress = 0xaBB47b761A2DCDE4D585eD3c81282b6DDe5fe54B
+export const MotorRentalPlatformAddress = 0xEA1Fb2F6267c08E0695dfdC131f906a3CEEc51B5

@@ -23,10 +23,17 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@truffle/hdwallet-provider": "^1.4.2",
-    "dotenv": "^9.0.0"
+    "@nomiclabs/buidler": "^1.4.8",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^9.0.0",
+    "hardhat": "^2.15.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.9.1"
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@openzeppelin/contracts": "^4.9.1",
+    "@vitejs/plugin-react": "^4.0.0",
+    "chai": "^4.3.7",
+    "vite": "^4.3.9"
   }
 }

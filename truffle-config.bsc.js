@@ -49,7 +49,7 @@ module.exports = {
   // Configure your compilers
   compilers: {
     solc: {
-      version: "^0.8.7"
+      version: ">=0.4.25 <0.9.0"
     }
   },
   db: {
