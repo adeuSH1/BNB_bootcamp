@@ -1,2 +1,2 @@
-# first_part
+# bnb_bootcamp
  solidity
